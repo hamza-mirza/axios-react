@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import axios from "axios";
 import './App.css';
 
-//https://api.github.com/users/john
 
 import UserForm from "./components/UserForm";
 
